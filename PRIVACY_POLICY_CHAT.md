@@ -1,6 +1,7 @@
 ## Privacy policy - Family Chat application
 
-This app does not collect or store any information about the user.
+This app collects collects the name and email address of the user. 
+The data is used to allow users to register and log in.
 
 **Developer**:
  - Tamás Gáspár
